@@ -136,7 +136,7 @@ Each Campground has:
 
 # RESTFUL ROUTES
 
-name      url      verb    desc.
+name      url      verb    desc
 ===============================================
 * INDEX   /campgrounds
 * NEW     /campgrounds/new
